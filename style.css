@@ -1,0 +1,104 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    
+    background-color: black;
+    font-family: 'One Piece', sans-serif;
+    text-align: center;    
+                               
+}
+a{
+    font-family: 'One Piece', sans-serif;
+      color:blue;
+}
+article{
+    background-image: url(./imagen/one-piece-pictures-a490z6ais4fwsurq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    
+}
+.cartas{
+    color: crimson;
+    margin: 5%;
+    padding: 5%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-left: -1%;
+    box-sizing: border-box;
+}
+h2{
+    color:crimson ;
+}
+.recopensa{
+    width: 330px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30PX;
+    border: 2PX solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    background-image: url(./imagen/Sanji\ cartas\ de\ procurado.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.recopensa02{
+    width: 330px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30PX;
+    border: 2PX solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    background-image: url(./imagen/Monkey_D._Luffycartas\ de\ procurado.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.recopensa03{
+    width: 330px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30PX;
+    border: 2PX solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 3px;
+    display: inline-block;
+    background-image: url(./imagen/Roronoa_Zoro\ cartas\ de\ procurado.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Arcos{
+    width: 330px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30PX;
+    border: 2PX solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 3px;
+    display: inline-block;
+    background-image: url(./imagen/Marineford_Arc.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Arcos02{
+    width: 330px;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 30PX;
+    border: 2PX solid black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 3px;
+    display: inline-block;
+    background-image: url(./imagen/Elbaph_Arc.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
