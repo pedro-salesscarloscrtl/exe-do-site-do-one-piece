@@ -1,0 +1,76 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    
+    background-color: black;
+    font-family: 'One Piece', sans-serif;
+    text-align: center;    
+                               
+}
+a{
+    font-family: 'One Piece', sans-serif;
+      color:blue;
+}
+h2{
+    color:crimson ;
+}
+.barco{
+    height: 100vh;
+    color: firebrick;
+    display: flex;/*ativa o flex-box*/
+    flex-direction: row;/*mexe na direção*/
+    justify-content:center;/*alinhamento eixo principal*/
+    align-items:center;/**/
+    gap:10%;
+    flex-wrap: wrap;
+}
+.cartas{
+    width: 300px;
+    height: 520px;
+    border-color: darkseagreen;
+    border: 5px solid darkolivegreen;
+    border-radius: 5px;
+    background-color: darkcyan;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    box-shadow: 2px 2px 8px black;
+}
+#bando{
+    height: 100vh;
+    
+}
+.sobre{
+    width: 130px;
+    height: 45px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: slategray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 8px black;
+    margin: 10px;
+}
+.akuma{
+    width: 120px;
+    height: 45px;
+    border: 5px solid rgba(0, 100, 0, 0.767);
+    border-radius: 5px;
+    background-color: goldenrod;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 8px black;
+    margin: 10px;
+}

@@ -22,7 +22,7 @@ article{
     height: 900px;
     
 }
-.cartas{
+.carta{
     color: crimson;
     margin: 5%;
     padding: 5%;
@@ -46,6 +46,7 @@ h2{
     background-image: url(./imagen/Sanji\ cartas\ de\ procurado.webp);
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: 2px 2px 8px black;
 }
 .recopensa02{
     width: 330px;
@@ -59,6 +60,7 @@ h2{
     background-image: url(./imagen/Monkey_D._Luffycartas\ de\ procurado.webp);
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: 2px 2px 8px black;
 }
 .recopensa03{
     width: 330px;
@@ -73,6 +75,7 @@ h2{
     background-image: url(./imagen/Roronoa_Zoro\ cartas\ de\ procurado.webp);
     background-size: cover;
     background-repeat: no-repeat;
+    box-shadow: 2px 2px 8px black;
 }
 .Arcos{
     width: 330px;
@@ -102,3 +105,4 @@ h2{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
